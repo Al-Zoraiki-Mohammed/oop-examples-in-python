@@ -1,4 +1,4 @@
-"""Practice1: Implement inheritance and customization in transportation classes.
+""" Implement inheritance and customization in transportation classes.
 """
 
 
