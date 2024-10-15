@@ -1,4 +1,4 @@
-"""Practice1: Implement multiple inheritance with abstract classes and magic methods.
+"""Implement multiple inheritance with abstract classes and magic methods.
 """
 
 from abc import ABC, abstractmethod
